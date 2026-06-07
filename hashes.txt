@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Head Over Heels Now
+
+This log tracks the cryptographic history and versioning for the song **Head Over Heels Now** (head-over-heels-now).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-08T03:25:10.056634 | `v1` | `4c07acdad6a9848a9f8551b2fca2dbe3b6fccabbae23ac03f12f7733c61a463a` | `cd6c1919f0bb387c9d3bff67b4221f113df75e9aa2e27c3dcec8370d321ff334` | `2026-06-08_head-over-heels-now-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -13,9 +13,9 @@
 | **Title** | Head Over Heels Now |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | May 27, 2026 |
-| **Song Page** | Pending |
+| **Song Page** | [Open Song Page](https://imabusayed.github.io/head-over-heels-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Head Over Heels Now](https://music.abusayed.com.bd/Licensing/) |
+| **Get License** | [Get License For Head Over Heels Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/head-over-heels-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
