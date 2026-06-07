@@ -13,9 +13,9 @@
 | **Title** | Head Over Heels Now |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | May 27, 2026 |
-| **Song Page** | [Open Song Page](https://imabusayed.github.io/head-over-heels-now/) |
+| **Song Page** | Pending |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Head Over Heels Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/head-over-heels-now/) |
+| **Get License** | [Get a Licensing Quote for Head Over Heels Now](https://music.abusayed.com.bd/Licensing/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your quiet gaze is a burning ember
+> Making this a night I will always remember
+> The ground disappears when you are around
+> I am falling fast, I am head over heels now
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | May 27, 2026 |
+| **Timestamp** | June 08, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
